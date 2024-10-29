@@ -33,6 +33,6 @@ if __name__ == "__main__" :
         plugins=plugins,
         parse_mode="html"
     )
-    Config.AUTH_USERS.add(5040827671)
+    Config.AUTH_USERS.add(6691338079)
     print("Bot Started!")
     app.run()
