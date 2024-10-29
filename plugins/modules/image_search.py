@@ -20,7 +20,7 @@ async def search(bot, update):
             InlineQueryResultPhoto(
                 title=update.query.capitalize(),
                 description=result,
-                caption="Made by @subhan011",
+                caption="Made by @vijaysahu_2",
                 photo_url=result
             )
         )
