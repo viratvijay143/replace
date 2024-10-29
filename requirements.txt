@@ -1,7 +1,7 @@
-pyrogram==1.4.0
+pyrogram
 tgcrypto
 psycopg2-binary
-sqlalchemy==1.3.23
+sqlalchemy
 python-dotenv
 requests
 Pyromod
