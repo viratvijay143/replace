@@ -58,7 +58,7 @@ async def button(bot, cmd: CallbackQuery):
                    [
                       
                        [
-                        InlineKeyboardButton("Owner", url="https://t.me/subhan011"),
+                        InlineKeyboardButton("Owner", url="https://t.me/vijaysahu_2"),
                         InlineKeyboardButton("About Me", callback_data="about_data")
                        ],
                        [
