@@ -24,7 +24,7 @@ else:
 start_button=InlineKeyboardMarkup(
         [
               [
-                  InlineKeyboardButton("Owner", url="https://t.me/Subhan011"),
+                  InlineKeyboardButton("Owner", url="https://t.me/vijaysahu_2"),
                   InlineKeyboardButton("🛡 About", callback_data = "about_data")
               ], 
               [
