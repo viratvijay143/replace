@@ -1,7 +1,7 @@
 from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton(text="UPDATE CHANNEL", url=f"https://t.me/Subhan011")]])
+BUTTONS = InlineKeyboardMarkup([[InlineKeyboardButton(text="UPDATE CHANNEL", url=f"https://t.me/vijaysahu_2")]])
 
 @Client.on_message(filters.private & filters.command("info"))
 async def info(bot, update):
